@@ -1,0 +1,6 @@
+{
+  "name": "TacOps Airsoft",
+  "description": "Comando tático de operações de airsoft com mapa de satélite via QR Code, rastreamento de operadores, saúde, inventário e zonas de exclusão poligonais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
